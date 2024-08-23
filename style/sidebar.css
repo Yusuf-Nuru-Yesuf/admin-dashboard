@@ -1,0 +1,57 @@
+.sidebar {
+    padding: 0.5rem 1.5rem;
+}
+
+.sidebar .sidebar-header {
+    width: 100%;
+}
+
+.sidebar .sidebar-menu-1,
+.sidebar .sidebar-menu-2 {
+    display: block;
+    margin: 1.5rem 0;
+}
+
+.sidebar div {
+    display: flex;
+}
+
+.sidebar .icon {
+    padding-left: 0;
+    fill: #f3f4f6;
+    width: 55px;
+    height: 55px;
+}
+
+.sidebar svg {
+    padding: 0.4rem 0 0.4rem 0.6rem;
+    fill: #f3f4f6;
+    width: 30px;
+    height: 30px;
+    margin: 0 0.5rem 0 0;
+}
+
+
+.sidebar h1 {
+    color: #f3f4f6;
+    margin: 0;
+    padding: 1rem 0.2rem;
+}
+
+.sidebar h2 {
+    color: #f3f4f6;
+    margin: 0;
+    padding: 0.3rem 1.2rem;
+}
+
+div a{
+    text-decoration: none;
+    color: #f3f4f6;
+    font-size: 1.2rem;
+    padding: 0;
+    margin: 0;
+}
+
+div .dashboard-link {
+    font-size: 1.8rem;
+}
